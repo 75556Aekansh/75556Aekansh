@@ -18,7 +18,7 @@ Build. Debug. Level up. Repeat.
 
 🌌 Player profile
 
-I'm Aekansh, a developer from Bhilai, India. I build Java backend applications, REST APIs, and full-stack projects, and explore AI-powered software.
+I'm Aekansh, a developer I build Java backend applications, REST APIs, and full-stack projects, and explore AI-powered software.
 
 I enjoy connecting the pieces behind an application: authentication, business logic, databases, and the interface people use.
 
